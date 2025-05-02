@@ -60,4 +60,4 @@ if __name__ == "__main__":
 
 
 ## Result
-Thus the socket for HTTP for web page upload and download created and Executed
+Thus the socket for HTTP for web page upload and download created and Executed.
